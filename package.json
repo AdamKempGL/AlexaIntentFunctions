@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeniusLead/AlexaNodeJsHelpers"
+    "url": "git+https://github.com/GeniusLead/AlexaNodeJsHelpers.git"
   },
   "author": "adam kemp",
   "license": "ISC",
